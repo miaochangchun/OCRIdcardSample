@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCRIdcardSample</string>
+    <string name="dialog_title_tips">提示</string>
+    <string name="dialog_msg_hcicloud_sysinit">灵云Sys模块初始化中&#8230;</string>
+</resources>
